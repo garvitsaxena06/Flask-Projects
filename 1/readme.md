@@ -1,1 +1,1 @@
-Basic flask project
+Basic flask project.
