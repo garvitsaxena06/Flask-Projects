@@ -1,1 +1,1 @@
-To create simple Admin-Panel
+To create simple Admin-Panel.
